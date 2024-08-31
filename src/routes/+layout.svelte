@@ -5,7 +5,7 @@
 
 <div class="flex flex-col min-h-screen box-border">
     <nav>
-        <div class="w-2/5 max-w-screen-md mx-auto flex items-center justify-between text-lg">
+        <div class="w-3/4 max-w-screen-md mx-auto flex items-center justify-between text-lg">
             <div>
                 <ul class="flex flex-row p-4">
                     <li class="py-2 px-3 text-nowrap font-semibold">
