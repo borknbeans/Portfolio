@@ -22,12 +22,10 @@
                     <li>
                         <a href="/about" class="py-2 px-3 rounded-lg hover:bg-gray-100 {($page.url.pathname === '/about') ? 'bg-gray-100 border border-gray-300 hover:border-gray-400' : ''}">About</a>
                     </li>
-                    <li class="pl-2">
-                        <a href="/contact" class="py-2 px-3 rounded-lg hover:bg-gray-100 {($page.url.pathname === '/contact') ? 'bg-gray-100 border border-gray-300 hover:border-gray-400' : ''}">Contact</a>
-                    </li>
                 </ul>
             </div>
         </div>
     </nav>
+    <hr class="h-px bg-gray-300 border-0">
     <slot />
 </div>
